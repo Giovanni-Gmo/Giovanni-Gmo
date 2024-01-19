@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heyo!👋
+I'm currently working on gaining more knowledge in the computer language, with the purpose of transitioning into the world of EV's.
+My passions are fast cars and fast PEV's(personal electric vehicles).
+Fun fact, I used to hate the idea of owning an EV, until I opened my mind and got an s-skateboard, and that has led me down this rabbit hole I found myself in today, learning coding! Ask me about it and I'll talk with you all day! If you want in, lmk!
+Cheers!! 
 
 <!--
 **Giovanni-Gmo/Giovanni-Gmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
